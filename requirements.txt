@@ -1,0 +1,11 @@
+streamlit
+streamlit_js_eval
+streamlit_folium
+opencv-python-headless
+mediapipe
+numpy
+pandas
+folium
+scikit-learn
+librosa
+soundfile
