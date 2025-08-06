@@ -1,0 +1,2 @@
+import joblib
+joblib.dump(model, "cry_model.pkl")
