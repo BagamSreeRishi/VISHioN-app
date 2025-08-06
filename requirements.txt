@@ -1,11 +1,5 @@
-streamlit
-streamlit_js_eval
-streamlit_folium
-opencv-python-headless
-mediapipe
-numpy
-pandas
-folium
-scikit-learn
-librosa
-soundfile
+streamlit==1.26.0
+numpy==1.24.3
+pandas==2.0.1
+opencv-python-headless==4.7.0.72
+scikit-learn==1.2.2
